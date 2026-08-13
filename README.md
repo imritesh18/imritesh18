@@ -20,10 +20,10 @@ I'm a Computer Science student passionate about programming, problem solving, an
 ## 🛠️ Technologies & Tools
 
 ### Languages
-`C++` `Python` `C` `JavaScript` `SQL`
+`C++` `Python` `SQL`
 
 ### Web Development
-`HTML` `CSS` `JavaScript` `PHP`
+`HTML` `CSS` `JavaScript`
 
 ### Databases
 `MySQL` `MongoDB`
@@ -37,21 +37,33 @@ I'm a Computer Science student passionate about programming, problem solving, an
 
 ### 🛒 Wholesale Shop Management System
 A web-based shop management system for managing products and shop data.
+**Tech:** HTML, CSS, JavaScript, MySQL
+
+### 🛍️ Myntra Clone
+A frontend clone of the Myntra website focused on recreating its layout and user interface.
+**Tech:** HTML, CSS
+
+### 🏋️ Fitness Landing Page
+A responsive fitness-themed landing page designed to practice modern web design and layouts.
+**Tech:** HTML, CSS
 
 ### 🎁 Random Gift Idea Generator
-A JavaScript-based project that generates random gift suggestions.
+A web application that generates random gift suggestions based on predefined data.
+**Tech:** HTML, CSS, JavaScript
 
 ### 🎓 University Clubs Events
-A platform for managing and exploring university club events.
+A web project for exploring and managing university club events.
+**Tech:** HTML, CSS
 
-### 📝 EchoBlog
-A blogging website developed using PHP and MySQL.
-
+### 🧮 Calculator
+A basic web calculator developed as part of a web development internship project.
+**Tech:** HTML, CSS, JavaScript
 ---
 
 ## 📚 Currently Learning
 
 - C++
+- Python
 - Data Structures & Algorithms
 - Full Stack Development
 - Problem Solving
@@ -61,5 +73,5 @@ A blogging website developed using PHP and MySQL.
 ## 📫 Connect With Me
 
 - 💻 GitHub: [@imritesh18](https://github.com/imritesh18)
-- 🔗 LinkedIn: Add your LinkedIn link here
-- 📧 Email: Add your email here
+- 🔗 LinkedIn: https://www.linkedin.com/in/thakran-ritesh/
+- 📧 Email: ritesh.thakran18@gmail.com
