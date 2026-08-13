@@ -1,8 +1,42 @@
+<div align="center">
+
 # Hi 👋, I'm Ritesh
 
 ### 🚀 B.Tech CSE (AI) Student | Aspiring Software Developer
 
-I'm a Computer Science student passionate about programming, problem solving, and building real-world software projects.
+<p>
+Passionate about programming, problem solving, and building real-world projects.
+<br>
+Currently improving my skills in C++, Python, DSA and Full Stack Development.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=imritesh18&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views"/>
+
+<br><br>
+
+<a href="https://github.com/imritesh18?tab=followers">
+<img src="https://img.shields.io/github/followers/imritesh18?label=FOLLOWERS&style=flat" />
+</a>
+
+<a href="https://github.com/imritesh18?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-VIEW-blue?style=flat" />
+</a>
+
+<a href="mailto:ritesh.thakran18@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-orange?style=flat" />
+</a>
+
+<a href="linkedin.com/in/thakran-ritesh/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=flat" />
+</a>
+
+<a href="https://leetcode.com/u/imritesh18/">
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-orange?style=flat" />
+</a>
+
+</div>
+
+<hr>
 
 ---
 
@@ -75,3 +109,4 @@ A basic web calculator developed as part of a web development internship project
 - 💻 GitHub: [@imritesh18](https://github.com/imritesh18)
 - 🔗 LinkedIn: https://www.linkedin.com/in/thakran-ritesh/
 - 📧 Email: ritesh.thakran18@gmail.com
+- 🧩 LeetCode: https://leetcode.com/u/imritesh18/
