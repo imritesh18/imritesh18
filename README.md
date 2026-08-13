@@ -26,7 +26,7 @@ Currently improving my skills in C++, Python, DSA and Full Stack Development.
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-orange?style=flat" />
 </a>
 
-<a href="linkedin.com/in/thakran-ritesh/">
+<a href="https://www.linkedin.com/in/thakran-ritesh/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=flat" />
 </a>
 
